@@ -34,3 +34,7 @@ Disadvantage of refactor: I don't see any disadvantage of the refactor. Probabll
 
 The refacor code make the original file take less time to process. 
 
+
+
+###### Thanks for your time on reviewing this analysis. :bouquet:
+
